@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+ 
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name type="string">Emirates Expo Opportunity</name>
+				<texture>Liveries/UAE_EXPO2.png</texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
